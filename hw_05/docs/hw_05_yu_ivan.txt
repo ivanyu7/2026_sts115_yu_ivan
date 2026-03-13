@@ -1,0 +1,23 @@
+Ivan Yu
+STS 115
+Webscraping
+
+My experience with Wikipedia API was pretty smooth at first but then it had 
+some errors with the code where I had to get the certain page of 
+the nobel laureates. I also had problems with parsing HTML as JSON.
+I solved them by going back into the course reader and 
+looking for help in separating and pulling the strings out. For web scraping my 
+experience was also a lot more smoother and easier to see the tables that I 
+extracted. My experience directly with web scraping was a lot smoother 
+as it did felt like it was easier to pull the information online. 
+I liked the web scraping approach more because it was easier to read the page in
+and extract the tables. I feel like both scraping and API have their own uses 
+and I learned that it is important to pay attention to what kind of data you 
+are pulling from and where. This will depend on what technique you should 
+use whether that be API or scraping. I would recommend people to start of 
+using the web scraping because it personally had less errors for me and was 
+easier to see the tables and simpler while going through the course reader. I 
+think API may be easier for non-beginners. I also learned to check data for 
+missing values after you have scraped it or read the html text and the importance
+of verifying that the data you pulled or scraped is accurate through visualizations
+or checking.
